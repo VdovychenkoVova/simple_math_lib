@@ -89,6 +89,7 @@ namespace MathLib
         return result;
     }
 
+
     // Function to calculate factorial
     int factorial(int n)
     {
@@ -104,4 +105,5 @@ namespace MathLib
         }
         return result;
     }
+
 }

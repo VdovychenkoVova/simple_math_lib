@@ -88,6 +88,7 @@ TEST_F(MathLibTestFixture, GreatestCommonDivider)
     EXPECT_EQ(MathLib::GCD(10, 6), 2);
 }
 
+
 // Function to test factorial
 TEST_F(MathLibTestFixture, FactorialTest)
 {
@@ -97,3 +98,4 @@ TEST_F(MathLibTestFixture, FactorialTest)
     EXPECT_EQ(MathLib::factorial(6), 720);
     EXPECT_THROW(MathLib::factorial(-1), std::invalid_argument);
 }
+

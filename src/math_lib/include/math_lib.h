@@ -50,8 +50,10 @@ namespace MathLib
     // Function for least common multiple (LCM)
     int leastCommonMultiple(int a, int b);
 
+
     // Function to calculate factorial
-    int factorial(int n); // Объединение определения функции факториала
+    int factorial(int n); // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+
 
     // Function for square root
     template <typename T>
